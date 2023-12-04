@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5X6BcZ5udMwQpjZS1ris+Jn5d/7dqWNEpUo3MRB8fLQwgzfQy14lIwAVIoRq+vxJzIGbKyda64P8yrASjNCF9g==",
+  "success": true,
+  "projectFilePath": "/Users/Veraahde/Desktop/Integrify/fs16_CSharp_4-library-management/LibraryManagement.csproj",
+  "expectedPackageFiles": [
+    "/Users/Veraahde/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

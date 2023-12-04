@@ -1,0 +1,17 @@
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_4-library-management/bin/Debug/net7.0/LibraryManagement
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_4-library-management/bin/Debug/net7.0/LibraryManagement.deps.json
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_4-library-management/bin/Debug/net7.0/LibraryManagement.runtimeconfig.json
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_4-library-management/bin/Debug/net7.0/LibraryManagement.dll
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_4-library-management/bin/Debug/net7.0/LibraryManagement.pdb
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_4-library-management/obj/Debug/net7.0/LibraryManagement.csproj.AssemblyReference.cache
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_4-library-management/obj/Debug/net7.0/LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_4-library-management/obj/Debug/net7.0/LibraryManagement.AssemblyInfoInputs.cache
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_4-library-management/obj/Debug/net7.0/LibraryManagement.AssemblyInfo.cs
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_4-library-management/obj/Debug/net7.0/LibraryManagement.csproj.CoreCompileInputs.cache
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_4-library-management/obj/Debug/net7.0/LibraryManagement.dll
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_4-library-management/obj/Debug/net7.0/refint/LibraryManagement.dll
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_4-library-management/obj/Debug/net7.0/LibraryManagement.pdb
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_4-library-management/obj/Debug/net7.0/LibraryManagement.genruntimeconfig.cache
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_4-library-management/obj/Debug/net7.0/ref/LibraryManagement.dll
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_4-library-management/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_4-library-management/obj/Debug/net7.0/LibraryManagement.csproj.CopyComplete

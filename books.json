@@ -1,0 +1,47 @@
+{
+  "2311051349549836815": {
+    "ISBN": "2311051349549836815",
+    "Title": "New Book Title",
+    "Author": "New Author",
+    "Type": 3,
+    "PublishYear": "1981",
+    "CanBorrow": false,
+    "CanPrint": true
+  },
+  "2311051422546915455": {
+    "ISBN": "2311051422546915455",
+    "Title": "Suomen Mestari2",
+    "Author": "Finn Lecture",
+    "Type": 2,
+    "PublishYear": "2000",
+    "CanBorrow": false,
+    "CanPrint": true
+  },
+  "2311051432225543039": {
+    "ISBN": "2311051432225543039",
+    "Title": "Pride and Prejudice",
+    "Author": "Jane Austen",
+    "Type": 0,
+    "PublishYear": "1813",
+    "CanBorrow": true,
+    "CanPrint": false
+  },
+  "2311051432225608909": {
+    "ISBN": "2311051432225608909",
+    "Title": "Waiting for Godot",
+    "Author": "Samuel Beckett",
+    "Type": 0,
+    "PublishYear": "1953",
+    "CanBorrow": true,
+    "CanPrint": false
+  },
+  "2311051432225634444": {
+    "ISBN": "2311051432225634444",
+    "Title": "Anthropology",
+    "Author": "Camelot Davis",
+    "Type": 3,
+    "PublishYear": "2003",
+    "CanBorrow": false,
+    "CanPrint": true
+  }
+}
